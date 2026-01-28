@@ -1,9 +1,9 @@
 //Tipos de dados 
 
 //String
-"Nayara"
-`Nayara`
-'Nayara'
+"Davi"
+`Davi`
+'Davi'
 
 //Number 
 0

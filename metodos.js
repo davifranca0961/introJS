@@ -1,7 +1,7 @@
 // //Métodos de entrada
-// // const nome = prompt("Digite seu nome")
+ const nome = prompt("Digite seu nome")
 
-// // const notificacao = confirm("Deseja receber notificações")
+ const notificacao = confirm("Deseja receber notificações")
 
 // //Métodos de saída
 // // alert(notificacao)
@@ -21,14 +21,14 @@
 //   soma = numero1 + numero2
 //   console.log(soma)
 
-// const email = prompt("Digite seu email")
-// const senha = Number(prompt("Digite sua senha"))
+ const email = prompt("Digite seu email")
+ const senha = Number(prompt("Digite sua senha"))
 
-// if (email === 'queiroz.14@hotmail.com' && senha === 123456) {
+ if (email === 'queiroz.14@hotmail.com' && senha === 123456) {
 //   alert("Login efetuado com sucesso")
 // } else {
 //   alert("email ou senha incorretos")
-// }
+ }
 
 // Qual o resultado da seguinte expressão?var total = 10 + 5 * 2 / 2 + 20;
 
@@ -55,8 +55,15 @@ console.log(media)
 
 // Incremente o número 5 e retorne o seu valor incrementado
 
+let incrementado = 5 
+
+
+
 // Como dividir o peso por 2? 
-// let numero = '60';
-// let unidade = 'kg';
-// let peso = numero + unidade;
+
+ let numero = '60';
+ let unidade = 'kg';
+ let peso = numero + unidade;
+
+numero /= 2
 
